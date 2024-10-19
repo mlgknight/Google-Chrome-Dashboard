@@ -1,19 +1,5 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+Chrome Extension project.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Dashboard for your Google Chrome making API calls to https://openweathermap.org/api, https://www.coingecko.com/en/api, and unsplash.com API.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+The point of this project to make your dashboard more interesting and have something to look at when you open your browser.
